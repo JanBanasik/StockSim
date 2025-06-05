@@ -8,6 +8,26 @@
 
 *   Jan Banasik
 
+## Interfejs graficzny
+
+# Main page
+![image](https://github.com/user-attachments/assets/4ffadb36-4c49-4ecd-a5b3-7ac5588a6728)
+
+
+# Dashboard
+![image](https://github.com/user-attachments/assets/665a8543-5e81-4e20-9ad6-bb668691af79)
+
+# Stock market
+![image](https://github.com/user-attachments/assets/b5259c9f-bde1-4a9b-8e08-756f9ab4987f)
+
+# Scoreboard
+![image](https://github.com/user-attachments/assets/9d73bdf5-d5d2-4572-9970-0f7beea4c637)
+
+# Plot
+![image](https://github.com/user-attachments/assets/bfb903e8-c371-4d65-ae2f-a222f2f7a47a)
+
+
+
 ## Opis Projektu
 
 StockSim to prosta aplikacja internetowa symulująca handel akcjami na wirtualnej giełdzie. Użytkownicy mogą zakładać konta, otrzymywać wirtualne saldo początkowe, przeglądać aktualne ceny i historię wybranych akcji (symbolizowanych przez firmy), a także dokonywać transakcji kupna i sprzedaży.
