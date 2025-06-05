@@ -1,0 +1,11 @@
+C:\Users\jan_b\RiderProjects\PZ2_projekt\StockSim.Shared\bin\Debug\net7.0\StockSim.Shared.deps.json
+C:\Users\jan_b\RiderProjects\PZ2_projekt\StockSim.Shared\bin\Debug\net7.0\StockSim.Shared.dll
+C:\Users\jan_b\RiderProjects\PZ2_projekt\StockSim.Shared\bin\Debug\net7.0\StockSim.Shared.pdb
+C:\Users\jan_b\RiderProjects\PZ2_projekt\StockSim.Shared\obj\Debug\net7.0\StockSim.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jan_b\RiderProjects\PZ2_projekt\StockSim.Shared\obj\Debug\net7.0\StockSim.Shared.AssemblyInfoInputs.cache
+C:\Users\jan_b\RiderProjects\PZ2_projekt\StockSim.Shared\obj\Debug\net7.0\StockSim.Shared.AssemblyInfo.cs
+C:\Users\jan_b\RiderProjects\PZ2_projekt\StockSim.Shared\obj\Debug\net7.0\StockSim.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jan_b\RiderProjects\PZ2_projekt\StockSim.Shared\obj\Debug\net7.0\StockSim.Shared.dll
+C:\Users\jan_b\RiderProjects\PZ2_projekt\StockSim.Shared\obj\Debug\net7.0\refint\StockSim.Shared.dll
+C:\Users\jan_b\RiderProjects\PZ2_projekt\StockSim.Shared\obj\Debug\net7.0\StockSim.Shared.pdb
+C:\Users\jan_b\RiderProjects\PZ2_projekt\StockSim.Shared\obj\Debug\net7.0\ref\StockSim.Shared.dll
